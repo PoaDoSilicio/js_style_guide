@@ -1,4 +1,4 @@
-# POA Do Silício Guia de estilo JavaScript () {
+# POA Do Silício Guia de estilo JavaScript 
 
 *Padrão de desenvolvimento com JS*
 
@@ -10,7 +10,7 @@
 
 ## <a name='variaveis'>Variáveis</a>
 
- - Sempre use `var` para declarar variáveis. Não fazer isso irá resultar em variáveis globais.
+<div> - Sempre use `var` para declarar variáveis. Não fazer isso irá resultar em variáveis globais. 
 
     ```javascript
     // ruim
@@ -33,5 +33,5 @@
         enviaEmail = true,
         dia = 15;
     ```
+</div>
 
-}
