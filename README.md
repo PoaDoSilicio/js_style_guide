@@ -10,7 +10,7 @@
 
 ## <a name='variaveis'>Variáveis</a>
 
-<div> - Sempre use `var` para declarar variáveis. Não fazer isso irá resultar em variáveis globais. 
+ - Sempre use `var` para declarar variáveis. Não fazer isso irá resultar em variáveis globais. 
 
     ```javascript
     // ruim
@@ -33,5 +33,5 @@
         enviaEmail = true,
         dia = 15;
     ```
-</div>
+
 
